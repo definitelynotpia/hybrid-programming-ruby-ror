@@ -1,0 +1,10 @@
+.title {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.paragraph {
+    margin: 10px 200px;
+    font-size: medium;
+    text-align: justify;
+}
