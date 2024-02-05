@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import './Content.css';
+import './Style.css';
 import '../App.css';
 import logo from '../cute_cat.gif';
 
