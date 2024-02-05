@@ -1,0 +1,26 @@
+.title {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.paragraph {
+    margin: 10px 200px;
+    font-size: medium;
+    text-align: justify;
+}
+
+.container {
+    padding: 60px 200px;
+}
+
+.sample {
+    font-style: italic;
+}
+
+label {
+    margin-right: 20px;;
+}
+
+.formInput {
+    margin-bottom: 20px;
+}
